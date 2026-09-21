@@ -5,6 +5,14 @@
 > Features inventory management, analytics reports, kitchen display, and a complete onboarding flow for businesses.
 
 ---
+## 📸 Screenshots
+<p align="center">
+  <img src="screenshots/ss1.jpeg" width="220"/>
+  <img src="screenshots/ss2.jpeg" width="220"/>
+</br>
+  <img src="screenshots/ss3.jpeg" width="220"/>
+  <img src="screenshots/ss4.jpeg" width="220"/>
+</p>
 
 ## 📱 Tech Stack
 
